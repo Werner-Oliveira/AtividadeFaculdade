@@ -6,7 +6,7 @@ package com.mycompany.algoritimo;
 
 /**
  *
- * @author Werne
+ * @author Werner
  */
 public class Algoritimo {
 
