@@ -11,7 +11,9 @@ public class Atividade {
 
     
     public static void main(String[] args) {
-        
+
+
+    //questão 1 letra A//
         /*
         int l, area;
         String l1;
@@ -20,6 +22,7 @@ public class Atividade {
         area = l*l;
         JOptionPane.showMessageDialog(null,"0 resultado da area é "+ area);
         */
+        //letra B//
         /*
         int comp, alt,area;
         String comp5, alt2;
@@ -30,6 +33,7 @@ public class Atividade {
         area = comp * alt;
         JOptionPane.showMessageDialog(null," O Resultado da area é " + area);
         */
+        //letra C//
         /*
         int lmaior, lmenor,alt;
         double area;
@@ -43,6 +47,7 @@ public class Atividade {
         area = lmaior + lmenor * alt / 2;
         JOptionPane.showMessageDialog(null,"O resultado final é" + area);
         */
+        //letra D//
         /*
         int raio;
         double area;
@@ -52,6 +57,7 @@ public class Atividade {
         area = raio * raio * 3.14;
         JOptionPane.showMessageDialog(null,"O resultado final é" + area);
         */
+        //letra E//
         /*
         int base, alt;
         double area;
@@ -63,6 +69,7 @@ public class Atividade {
         area = base * alt /2;
         JOptionPane.showMessageDialog(null,"O resultado final é" + area);
         */
+        //número 2//
         /*
         double salin, salmi;
         String salin1;
@@ -71,6 +78,7 @@ public class Atividade {
         salmi = salin * 0.86;
         JOptionPane.showMessageDialog(null," O resultado final é" + salmi);
         */
+        //numero 3//
         /*
         double salin, salmi;
         String salin1;
@@ -79,6 +87,7 @@ public class Atividade {
         salmi = salin * 1.05;
         JOptionPane.showMessageDialog(null," O resultado final é" + salmi);
         */
+        //número 4//
        /*
         double peso, alt,imc;
         String peso1, alt2;
@@ -89,6 +98,7 @@ public class Atividade {
         imc = peso / (alt * alt);
         JOptionPane.showMessageDialog(null," o peso final é " + imc);
         */
+        //número 5//
         /*
         double b, a, c, x1, x2, delta;
         String a1, b1, c1;
@@ -104,6 +114,7 @@ public class Atividade {
         JOptionPane.showMessageDialog(null," Primeira raiz" +x1);
         JOptionPane.showMessageDialog(null,"Primeira raiz" +x2);
         */
+        //número 6//
         /*
         double a,b,c,delta,raiz,par2,par3,res1,res2;
         String a1,b1,c1;
@@ -123,6 +134,7 @@ public class Atividade {
         JOptionPane.showMessageDialog(null," Raiz final " + res1);
         JOptionPane.showMessageDialog(null," Raiz final " + res2);
         */
+        //número 7//
         
          /*
          double a11,a12,a13,b21,b22,b23,c31,c32,c33;
@@ -146,6 +158,7 @@ public class Atividade {
          JOptionPane.showMessageDialog(null," Soma " + c32);
          JOptionPane.showMessageDialog(null," Soma " + c33);
          */
+        //número 8 //
          /*
          double r1, r2, raiz;
          String sr1, sr2;
@@ -156,6 +169,7 @@ public class Atividade {
          raiz = r1 - r2;
          JOptionPane.showMessageDialog(null," O resultado é " + raiz);
          */
+        //número 9//
          
          /*
          double a1, raiz;
@@ -165,6 +179,7 @@ public class Atividade {
          raiz = Math.sqrt(a1);
          JOptionPane.showMessageDialog(null," O resultado é " + raiz);
          */ 
+        //número 10//
         /*
         double hora =  8;
         String shora;
